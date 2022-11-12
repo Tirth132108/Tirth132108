@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tirth132108
 - 👀 I’m interested in Artificial Intelligence and Deep Learning.
-- 🌱 I’m currently learning hand gestures and their use using Deep Learning.
+- 🌱 I’m currently using Machine Learning for Data Analysis and Data Representation.
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: email me on tirthpatel219320@gmail.com
 
